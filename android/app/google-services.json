@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "800607926136",
+    "project_id": "kisiselbutceapp",
+    "storage_bucket": "kisiselbutceapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800607926136:android:192fbde891eb786fe03a8d",
+        "android_client_info": {
+          "package_name": "com.example.kisisel_butce_yonetimi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800607926136-r5b8ofcifcc3oduqs8bq8t3oijci28cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdJCh3x4ugqM5M-UJkfI4Pj0V92ucDGkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800607926136-r5b8ofcifcc3oduqs8bq8t3oijci28cr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "800607926136-74obf7604q04td116679j6n1ccrhc3u7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kisiselButceYonetimi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
